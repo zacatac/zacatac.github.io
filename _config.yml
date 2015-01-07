@@ -2,7 +2,7 @@
 title: A place for my thoughts
 email: field.zackery@berkeley.edu
 description: > # this means to ignore newlines until "baseurl:"
-"A blog about any and all things that I find the time to write about: computer science, web development, reading, and my adventures."
+A blog about any and all things that I find the time to write about... computer science, web development, reading, and my adventures.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: zack_field
