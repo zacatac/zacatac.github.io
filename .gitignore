@@ -9,3 +9,6 @@ vendor/bundle/*
 .ruby-version
 buildpacks/*
 .anvil/
+
+_site
+.sass-cache
