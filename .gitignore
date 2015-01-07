@@ -1,14 +1,2 @@
-repos/*
-.DS_Store
-## Environment normalisation:
-/.bundle
-vendor/bundler/*
-vendor/bundle/*
-.env
-
-.ruby-version
-buildpacks/*
-.anvil/
-
 _site
 .sass-cache
