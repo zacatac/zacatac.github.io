@@ -160,7 +160,8 @@ main, .notepad-share-icons, .notepad-disqus {
 .notepad-site-head .notepad-site-head-content {
   width: 100%;
   text-align: center;
-  background-color: black;
+  background-image: url("/images/coffee.jpg");
+  background-position: 0% 35%;
   background-size: cover; }
   .notepad-site-head .notepad-site-head-content.with-bg-cover {
     background-color: rgba(0, 0, 0, 0.7); }
@@ -197,7 +198,7 @@ main, .notepad-share-icons, .notepad-disqus {
       font-size: 1rem; }
     .notepad-site-head .notepad-site-head-content h2 {
       font-size: 4.375rem;
-      padding-bottom: 9.375rem;
+      padding-bottom: 12.375rem; // Change based on image size
       font-weight: 700; } }
   @media only screen and (min-width: 90em) {
     .notepad-site-head .notepad-site-head-content h1 {
