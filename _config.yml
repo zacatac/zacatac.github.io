@@ -1,6 +1,7 @@
 title:            words on a page
-description:      "Software, "
-logo:             logo.png
+description:      "Talking with Computers"
+logo:             z.png
+# Logo font is Quicksand from google
 disqus_shortname: zacatac
 share:            true
 dropcap:	  true
@@ -14,7 +15,7 @@ url: "" #for working locally since all links are absolute in this template
 # Owner/author information
 owner:
   name:           Zackery Field
-  avatar:         hmfaysal.jpg
+  avatar:         face.png
   email:          field.zackerzy@berkeley.edu
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
   description:    Talking it up on the Barry Gibbs talk show.
