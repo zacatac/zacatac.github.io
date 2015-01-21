@@ -1069,3 +1069,20 @@ img.mfp-img {
   top: 0;
   right: 0;
   padding-top: 0; }
+
+.img-container{    
+    display: block;
+    margin-right: auto;
+    margin-bottom: 10px;
+    margin-left: auto;
+    width: 500px;
+    height: 500px;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+}
+
+.face {
+    background-image: url('/images/face.png');
+    background-size: cover;    
+}
